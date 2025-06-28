@@ -1,0 +1,7 @@
+#hero-banner{
+    height: calc(100vh - 153px);
+}
+
+.object-cover{
+    object-fit: cover;
+}

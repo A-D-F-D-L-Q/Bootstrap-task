@@ -1,0 +1,19 @@
+
+.container{
+    background-color: bisque;
+    border: 8px solid black;
+}
+
+.row{
+    background-color: #f09423;
+    border: 3px solid #14c005;
+}
+
+.container-fluid{
+    border: 3px solid red;
+}
+
+.col{
+    background-color: #ddb17c;
+    border: 3px solid #6c05c0;
+}
